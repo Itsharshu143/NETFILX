@@ -54,8 +54,8 @@ MULTI_FSUB = [int(channel_id) for channel_id in environ.get('AUTH_CHANNEL', '-10
 # ============================
 # MongoDB Configuration
 # ============================
-DATABASE_URI = environ.get('DATABASE_URI', "mongodb+srv://d3242dy5ot:JkRUwWnb5hygsjiI@cluster0.xrppp.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
-DATABASE_URI2 = environ.get('DATABASE_URI2', "mongodb+srv://5l8pi:HejeyYhU62GPAzBO@cluster0.7plo7.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
+DATABASE_URI = environ.get('DATABASE_URI', "mongodb+srv://Karthik:karthik1@cluster0.zwwg6.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
+DATABASE_URI2 = environ.get('DATABASE_URI2', "mongodb+srv://d3242dy5ot:JkRUwWnb5hygsjiI@cluster0.xrppp.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
 DATABASE_NAME = environ.get('DATABASE_NAME', "cluster0")
 COLLECTION_NAME = environ.get('COLLECTION_NAME', 'Deendayal_files')
 
