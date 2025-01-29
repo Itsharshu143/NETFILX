@@ -1,6 +1,6 @@
 
 # bot dependencies 
-pyrofork==2.3.45            
+pyrofork==2.3.48           
 tgcrypto       
 pymongo[srv]==4.5.0        
 motor==3.3.2                
